@@ -47,7 +47,7 @@ coverage_files.txt
 new_coverage_files.txt
 ```
 /var/tmp/coverage_file3.cov.gz
-/var/tmp/coverage_file3.cov.gz
+/var/tmp/coverage_file4.cov.gz
 ```
 
 Output
