@@ -7,6 +7,9 @@ between the average mean and standard deviation at a specific base and comparing
 coverage depth threshold. This identifies whether a base or several bases are considered to be 
 a systematic gap and also whether it should be added to the "Master Gap" BED file outputted.
 
+
+**Please Note**: The coverage files analysed should pertain to the specified TARGET_BED file 
+
 Usage
 =======================
 ```
